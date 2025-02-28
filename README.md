@@ -1,5 +1,6 @@
 # CMPINF0010 Skills Lab 
 # Lab 1 - Introduction to Jupyter & the Stack
+# Test change for class!
 
 Welcome to the Lab session for CMPINF0010 Big Ideas in Computing and Information.
 
